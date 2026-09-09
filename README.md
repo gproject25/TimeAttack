@@ -19,7 +19,7 @@ Repository 구조:
 4. feature/goals: 단기/장기 목표 (members/goals.md)
 5. feature/TMI: 취미활동 (members/TMI.md)
 
-각 작업은 독립적인 브랜치에서 진행됩니다 (ex: feature/skills -> 기술 작성). 도전기능: 2nd Merge Conflict
+각 작업은 독립적인 브랜치에서 진행됩니다 (ex: feature/skills -> 기술 작성). 도전기능: 충돌 해결!
 
 작업이 완료될 때마다 Pull Request를 생성하여 순차적으로 병합할 예정
 
